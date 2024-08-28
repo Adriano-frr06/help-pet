@@ -183,7 +183,8 @@ nav li a:hover{
     background-repeat: no-repeat;
     display: flex;455552
     align-items: center;
-    justify-content: center;
+    justify-content: center; 
+    margin-left:15px;
   text-align: center;
 }
 
